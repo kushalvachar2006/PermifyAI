@@ -1,15 +1,12 @@
+<div align="center">
+
 # <a name="permifyai"></a>PermifyAI
 
 **PermifyAI** is an advanced, AI-powered privacy assistant for Android designed to help users identify and manage apps that request unnecessary or dangerous permissions. By leveraging the intelligence of **Google Gemini AI**, the app analyzes the *purpose* of an application and compares its requirements against the permissions actually granted by the user.
 
----
+• [Features](#features) • [Tech Stack](#tech-stack) • [Backend Architecture](#architecture) • [Application Flow](#flow) • [Installation & Setup](#setup)
 
-## <a name="table-of-contents"></a>Table of Contents
-* [Features](#features)
-* [Tech Stack](#tech-stack)
-* [Backend Architecture](#architecture)
-* [Application Flow](#flow)
-* [Installation & Setup](#setup)
+</div>
 
 ---
 
@@ -73,4 +70,74 @@ The application follows a clean, modular architecture:
 4.  Sync Gradle and run the app.
 
 ---
-Developed with ❤️ by the PermifyAI Team.
+
+## <a id="contributing"></a> Contributing
+
+We welcome contributions from the community! PermifyAI is open-source and we encourage you to fork the repository and extend it with new features or enhancements.
+
+### How to Contribute
+
+1. **Fork the Repository**
+   - Click the 'Fork' button at the top right of this repository
+
+2. **Clone Your Fork**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/PermifyAI.git
+   cd PermifyAI
+   ```
+
+3. **Create a Feature Branch**
+   ```bash
+   git checkout -b feature/amazing-feature
+   ```
+
+4. **Make Your Changes**
+   - Write clean, documented code
+   - Follow the existing code style
+   - Add comments where necessary
+
+5. **Commit Your Changes**
+   ```bash
+   git add .
+   git commit -m "Add: amazing new feature"
+   ```
+
+6. **Push to Your Fork**
+   ```bash
+   git push origin feature/amazing-feature
+   ```
+
+7. **Open a Pull Request**
+   - Go to the original repository
+   - Click 'New Pull Request'
+   - Select your feature branch
+   - Describe your changes in detail
+     
+---
+
+## Support & Contact
+
+- **GitHub Issues**: [Report bugs or request features](https://github.com/kushalvachar2006/PermifyAI/issues)
+- **Email**: kushalv1306@gmail.com
+- **Discussions**: [Join our discussions](https://github.com/kushalvachar2006/PermifyAI/discussions)
+
+---
+
+## Author
+<div align="center" style="font-size:28px; font-weight:700; padding:8px 16px; border-radius:10px; background:#1f2937; color:#ffffff;">
+  Kushal V Achar
+</div>
+
+
+
+- GitHub: [@kushalvachar2006](https://github.com/kushalvachar2006)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/kushal-v-achar-796049317/)
+
+---
+
+<div align="center">
+
+[⬆ Back to Top](#top)
+
+
+</div>
