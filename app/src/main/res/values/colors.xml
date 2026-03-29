@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="primary">#1A237E</color> <!-- Deep Indigo -->
+    <color name="primary_light">#534BAE</color>
+    <color name="primary_dark">#000051</color>
+
+    <color name="accent">#00BCD4</color> <!-- Cyan -->
+
+    <!-- Backgrounds -->
+    <color name="bg_gradient_start">#F8FAFF</color>
+    <color name="bg_gradient_end">#E3E9F2</color>
+    <color name="surface_card">#FFFFFF</color>
+
+    <!-- Risk Colors -->
+    <color name="risk_low">#4CAF50</color>
+    <color name="risk_medium">#FFB300</color>
+    <color name="risk_high">#F44336</color>
+    <color name="risk_critical">#B71C1C</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1C1E</color>
+    <color name="text_secondary">#44474E</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#DDDDDD</color>
+
+    <color name="card_stroke">#10000000</color>
+</resources>

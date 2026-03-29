@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PermifyAI</string>
+    <string name="greeting_status">Your Privacy Status</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="apps_scanned">Apps Scanned</string>
+    <string name="risky_apps">Risky Apps</string>
+    <string name="top_risky_apps">Top Risky Apps</string>
+    <string name="search_hint">Search installed apps...</string>
+    <string name="why_risky">Why this is risky</string>
+    <string name="ai_insight">AI Insight</string>
+    <string name="permissions_used">Permissions used</string>
+    <string name="recommended_action">Recommended Action</string>
+    <string name="uninstall_recommendation">Uninstall this app immediately to protect your privacy.</string>
+    <string name="uninstall_app">Uninstall App</string>
+    <string name="risk_safe">Safe</string>
+    <string name="risk_critical_label">CRITICAL RISK</string>
+    <string name="privacy_score">Privacy Score</string>
+    <string name="scan_guide">Click on Scan Now to view the critical apps</string>
+    <string name="scan_idle">Ready to scan</string>
+    <string name="scan_running">Scanning apps with AI...</string>
+    <string name="scan_finished">Scan complete!</string>
+</resources>

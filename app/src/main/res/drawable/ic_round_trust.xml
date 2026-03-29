@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Circular background -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/holo_purple" />
+        </shape>
+    </item>
+
+    <!-- Icon centered inside -->
+    <item
+        android:top="10dp"
+        android:bottom="10dp"
+        android:left="10dp"
+        android:right="10dp"
+        android:drawable="@android:drawable/ic_menu_myplaces" />
+
+</layer-list>
